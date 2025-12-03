@@ -8,7 +8,7 @@ ANNUAL INTEREST RATE(%) and
 LOAN DURATION(years).It should then apply the formula and return the monthly payment.The output should be simple and easy to read.
 4. IMPLEMENT:This is where I wrote the actual Python code based on my design.I created a function called
 [CALCULATE_MONTHLY_PAYMENT(): This function takes LOAN AMOUNT(principal), ANNUAL INTEREST RATE(%)(r) *under this function, this particular variables is converted to months*, LOAN DURATION(years)(n)]
-Also another function [MAIN, *that handles users input, calls CALCULATE_MONTHLY_PAYMENT,and print results*.
+Also another function, MAIN, *that handles users input, calls CALCULATE_MONTHLY_PAYMENT,and print results*.
 The amortization formula therefore is,
 M = P × /r(1+r)^n/(1+r)^n-1
 this formula would be used to run the code as the user input values to the various variables.
