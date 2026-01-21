@@ -1,5 +1,7 @@
 NAME: THOMPSON PEACE EMEM
+
 MATRIC NUMBER: 24/13829
+
 DEPARTMENT: COMPUTER SCIENCE
 
 1. Simple SDLC Explanation for My Loan Amortization Project
