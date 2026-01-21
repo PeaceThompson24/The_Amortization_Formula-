@@ -1,5 +1,9 @@
-0. Simple SDLC Explanation for My Loan Amortization Project
-1. REQUIREMENT ANALYSIS:This is where I tried to understand what the project is supposed to do.The goal is to create a Python program that calculates how much a person will pay every month when they borrow money from a bank. I identified the main requirements:The user should enter the
+NAME: THOMPSON PEACE EMEM
+MATRIC NUMBER: 24/13829
+DEPARTMENT: COMPUTER SCIENCE
+
+1. Simple SDLC Explanation for My Loan Amortization Project
+2. REQUIREMENT ANALYSIS:This is where I tried to understand what the project is supposed to do.The goal is to create a Python program that calculates how much a person will pay every month when they borrow money from a bank. I identified the main requirements:The user should enter the
 LOAN AMOUNT (principal),
 ANNUAL INTEREST RATE(%), and
 LOAN DURATION(years).The program should calculate the monthly payment using the amortization formula.It should show the final monthly payment clearly.
