@@ -4,10 +4,10 @@ MATRIC NUMBER: 24/13829
 
 DEPARTMENT: COMPUTER SCIENCE
 
-1.
-SIMPLE SDLC EXPLANATION FOR MY AMMORTIZATION PROJECT.
+SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC) EXPLANATION FOR MY AMMORTIZATION PROJECT.
+Every Stages gives a well detailed explanation of the ammortization formula and how loans can be cut monthly. Here are the stages below:
 
-2.
+1.
 REQUIREMENT ANALYSIS:This is where I tried to understand what the project is supposed to do.The goal is to create a Python program that calculates how much a person will pay every month when they borrow money from a bank. I identified the main requirements:The user should enter the
 
 LOAN AMOUNT (principal),
@@ -18,7 +18,7 @@ LOAN DURATION(years).
 
 The program should calculate the monthly payment using the amortization formula. It should show the final monthly payment clearly.
 
-3.
+2.
 SYSTEM DESIGN: Here I planned how the program will work.The program needs a function for the amortization formula.It should take user inputs.It should calculate the
 
 LOAN AMOUNT(Principal),
@@ -29,7 +29,7 @@ LOAN DURATION(years).
 
 It should then apply the formula and return the monthly payment.The output should be simple and easy to read.
 
-4.
+3.
 IMPLEMENT:This is where I wrote the actual Python code based on my design.I created a function called
 
 CALCULATE_MONTHLY_PAYMENT(): 
@@ -59,11 +59,11 @@ M = P × /r(1+r)^n/(1+r)^n-1
 
 this formula would be used to run the code as the user input values to the various variables.
 
-5.
+4.
 TESTING: I tested the program using different loan amounts and interest rates to check if the answer matches what online calculators give.I also tested wrong inputs zero or negative numbers Very large numbers.This helped ensure the program works correctly.
 
-6.
+5.
 DEPLOYMENT AFTER TESTING: I packaged the code and uploaded it to GitHub.This makes it easy to submit and share.
 
-7.
+6.
 MAINTENANCE:This is where I can make improvements later, such as,showing a full amortization table (monthly breakdown)Adding error handling Adding a GUI or HTML version making it run on a mobile app.
